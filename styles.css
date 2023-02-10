@@ -1,0 +1,19 @@
+.containerDiv {
+    border-bottom: 1px solid black;
+    display: flex;
+}
+
+.paintDiv {
+    border-right: 1px solid black;
+    width: 20px;
+    height: 20px;
+}
+
+#topContainer {
+    border: 2px solid black;
+    display: inline-block
+}
+
+.painted {
+    background-color: red;
+}
